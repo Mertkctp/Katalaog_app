@@ -10,16 +10,17 @@ Bu uygulama, bir API üzerinden dinamik veri çekerek ürünleri listeleyen, det
 
 ### 🚀 Çalıştırma Adımları
 1. Bu depoyu klonlayın: `git clone https://github.com/Mertkctp/Katalog_app.git`
-2. Proje dizinine gidin: `Katalog_app`
+2. Proje dizinine gidin: `cd Katalog_app`
 3. Bağımlılıkları yükleyin: `flutter pub get`
 4. Uygulamayı çalıştırın: `flutter run`
 
-## 📸 Ekran Görüntüleri
 
-| Boş Sepet | Sepet | Sepete Ekleme |
-| :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/31f985cd-65ed-4105-8abc-55fc5ef71445" width="250"> | <img src="https://github.com/user-attachments/assets/f39348d3-b386-48d1-8844-9b654d13ef20" width="250"> | <img src="https://github.com/user-attachments/assets/6226850e-260f-4a20-bf65-9993389f8c33" width="250"> |
+## 📱 Uygulama Görselleri
 
-| Ürün Detay | Ana Sayfa | Arama |
+| Anasayfa | Ürün Açıklama | Sepete Ekleme |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/2b461e70-17cd-4c9f-b697-0228a59dbc09" width="250"> | <img src="https://github.com/user-attachments/assets/a2b97d4f-3068-49b0-bda4-a66540713e8c" width="250"> | <img src="https://github.com/user-attachments/assets/4f2cbaef-42bf-49f7-b5e5-f24c3372ceaf" width="250"> |
+| <img src="https://github.com/user-attachments/assets/10c91167-55b4-4553-bb72-77d2d35f8d85" width="250"> | <img src="https://github.com/user-attachments/assets/7d2183a4-1778-4082-93f2-c8ce7984f35a" width="250"> | <img src="https://github.com/user-attachments/assets/b32a250c-e62b-4238-89eb-8dc53ad6f136" width="250"> |
+
+| Arama | Sepet | Ürün Çıkarma |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/5bde453b-eac6-4318-b95c-adde709908ae" width="250"> | <img src="https://github.com/user-attachments/assets/1dbcb8db-0067-48dc-8860-918fb6aa6c7a" width="250"> | <img src="https://github.com/user-attachments/assets/f4524ab9-61d5-41d1-a3e0-008c0083cf66" width="250"> |
