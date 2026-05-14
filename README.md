@@ -14,7 +14,7 @@ Bu uygulama, bir API üzerinden dinamik veri çekerek ürünleri listeleyen, det
 
 ### 🚀 Çalıştırma Adımları
 1. Bu depoyu klonlayın: `git clone https://github.com/Mertkctp/Katalog_app`
-2. Proje dizinine gidin: `cd mini_katalog_app`
+2. Proje dizinine gidin: `cd Katalog_app`
 3. Bağımlılıkları yükleyin: `flutter pub get`
 4. Uygulamayı çalıştırın: `flutter run`
 
