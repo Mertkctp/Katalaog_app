@@ -4,28 +4,22 @@ Bu uygulama, bir API üzerinden dinamik veri çekerek ürünleri listeleyen, det
 
 ### 📝 Proje Açıklaması
 - **Dinamik Veri:** `wantapi.com` üzerinden REST API entegrasyonu.
-- **Modern UX:** Shimmer loading efekti ve Pull-to-refresh mekanizması.
-- **State Management:** Singleton ve ChangeNotifier ile sepet ve rozet sistemi.
-- **Arama:** Ürün ismi ile anlık filtreleme.
 
 ### 🛠 Teknik Detaylar
 - **Flutter Sürümü:** 3.22.0
-- **Kullanılan Paketler:** `http`, `shimmer`
 
 ### 🚀 Çalıştırma Adımları
-1. Bu depoyu klonlayın: `git clone https://github.com/Mertkctp/Katalog_app`
-2. Proje dizinine gidin: `cd Katalog_app`
+1. Bu depoyu klonlayın: `git clone https://github.com/Mertkctp/Katalog_app.git`
+2. Proje dizinine gidin: `Katalog_app`
 3. Bağımlılıkları yükleyin: `flutter pub get`
 4. Uygulamayı çalıştırın: `flutter run`
 
-### 📸 Ekran Görüntüleri
+## 📸 Ekran Görüntüleri
 
-| Ana Sayfa | Ürün Detay | Sepete Ekleme |
+| Boş Sepet | Sepet | Sepete Ekleme |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/19db2021-f11c-418c-aa80-76ec60447c79" width="200"> | <img src="https://github.com/user-attachments/assets/80fb3d44-e290-4604-9ece-089b60e329e7" width="200"> | <img src="https://github.com/user-attachments/assets/89742494-2eb4-4414-96c6-d20e28623b4c" width="200"> |
+| <img src="https://github.com/user-attachments/assets/31f985cd-65ed-4105-8abc-55fc5ef71445" width="250"> | <img src="https://github.com/user-attachments/assets/f39348d3-b386-48d1-8844-9b654d13ef20" width="250"> | <img src="https://github.com/user-attachments/assets/6226850e-260f-4a20-bf65-9993389f8c33" width="250"> |
 
-| Sepet Ekranı | Miktar Güncelleme | Ürün Silme |
+| Ürün Detay | Ana Sayfa | Arama |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/8c23fecb-b852-47e6-9587-e29be2c8f42d" width="200"> | <img src="https://github.com/user-attachments/assets/1e57a9dd-4569-4a3a-8c68-dee87c87ca7e" width="200"> | <img src="https://github.com/user-attachments/assets/e0fccfa2-71a6-43ee-950d-7964a818057f" width="200"> |
-
-
+| <img src="https://github.com/user-attachments/assets/2b461e70-17cd-4c9f-b697-0228a59dbc09" width="250"> | <img src="https://github.com/user-attachments/assets/a2b97d4f-3068-49b0-bda4-a66540713e8c" width="250"> | <img src="https://github.com/user-attachments/assets/4f2cbaef-42bf-49f7-b5e5-f24c3372ceaf" width="250"> |
